@@ -1,4 +1,4 @@
-## Top 30-Starred Python Projects on GitHub
+## Top 30-Starred ⭐ Python Projects on GitHub
 
 This Python script makes an API request to GitHub and translates the data into a top 30-starred Python projects graph for your use.
 
