@@ -2,7 +2,7 @@
 
 This Python script makes an API request to GitHub and translates the data into a top 30-starred Python projects graph for your use.
 
-The graph will give you a title of each project, and you will be able to click on each bar. This link brings you to the GitHub repository so you may check out the project yourself. 
+The graph will give you a title of each project, and you will be able to click on each bar. Each link brings you to the GitHub repository so you may check out the project yourself. 
 
 ## Notes before using this script
 
